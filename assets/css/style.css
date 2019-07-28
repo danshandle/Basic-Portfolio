@@ -1,11 +1,11 @@
 body {
     width: 100%;
     height: 100%;
-    background-color: #eee;
+    background-color: rgb(250, 246, 246);
     color: #77777;
     margin: 0;
     padding: 0;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 header {
@@ -33,6 +33,9 @@ header {
     padding-left: 166px;
     margin-top: -44px;
 }
+.myphoto{
+    Float: left
+    }
 .navmenu li {
     list-style: none;
     float: left;
